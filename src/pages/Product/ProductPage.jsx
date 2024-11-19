@@ -1,6 +1,11 @@
+import { useEffect } from "react";
+import ProductCard from "../../components/ProductCard/ProductCard"
+
 const ProductPage = () => {
   return (
-    <div>ProductPage</div>
+    <>
+      <h1>This is the product page</h1>
+    </>
   )
 }
 
